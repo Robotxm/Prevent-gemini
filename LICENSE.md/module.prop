@@ -1,0 +1,7 @@
+id=Prevent-gemini
+name=Prevent Patch
+version=1.11
+versionCode=11
+author=Robotxm
+description=Prevent patch only for Xiaomi Mi 5 with MIUI 9 official Chinese developement version (8.1.11)
+minMagisk=1500
